@@ -1,0 +1,69 @@
+div#poll input {
+	width: 20px;
+}
+div#poll form
+{
+	display: inline-block;
+	text-align: center;
+}
+
+#novaklasa{
+	text-align: justify;
+	display: inline-block;
+	padding-bottom: 30px;
+}
+.drugimeni {
+    text-align: center;
+}
+.drugimeni ul {
+    display: inline-block;
+    margin: 0;
+    padding: 0;
+    /* For IE, the outcast */
+    zoom:1;
+    display: inline;
+}
+.drugimeni li {
+    float: left;
+    padding: 10px 2px;
+}
+.drugimeni a{
+	color: black;
+}
+*, .boxC, div#poll{
+    box-sizing: content-box !important ;
+    -webkit-box-sizing: content-box !important;
+}
+.text-info img {
+    width: 100%;
+}
+.text-info {
+    font-family: 'Source Sans Pro', sans-serif;
+    color: black;
+
+}
+.text-info h5{
+    font-size: 18px;
+}
+
+.col-md-3 form{
+    display: inline-block;
+    padding-bottom: 30px;
+}
+.col-md-3 {
+	float: left;
+    position: relative;
+    z-index: 1;
+    width: 300px;
+    border: 1px solid #ccc;
+}
+.igrac{
+    position: relative;
+}
+blockquote{
+    background: #eee;
+}
+#owner img{
+    height: 400px;
+    width: auto;
+}
